@@ -4,7 +4,7 @@
 This service utilizes the Fast F1 library, enabling you to analyze various F1 datasets with ease.
 
 
-💡 **Ease of Use: **
+💡 **Ease of Use:**
 
 Designed to make getting started effortless — begin in just a few minutes without any complicated setup or installation.
 
